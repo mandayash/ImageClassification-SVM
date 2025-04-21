@@ -3,8 +3,6 @@ Repositori ini berisi implementasi sistem klasifikasi gambar anemia menggunakan 
 
 # Klasifikasi Gambar Anemia Menggunakan SVM
 
-![Confusion Matrix](images/confusion_matrix.png)
-
 ## Deskripsi Proyek
 Proyek ini mengimplementasikan klasifikasi gambar untuk mendeteksi anemia dari gambar mikroskopik sel darah menggunakan Support Vector Machine (LinearSVC). Model berhasil mencapai akurasi 90.42% dengan sensitivitas 93% untuk kasus anemia.
 
