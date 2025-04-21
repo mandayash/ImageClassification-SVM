@@ -28,8 +28,6 @@ Dataset terdiri dari 4277 gambar (2563 anemic dan 1714 non-anemic) dalam format 
 - **Recall**: Non-anemic (0.87), Anemic (0.93)
 - **F1-score**: Non-anemic (0.88), Anemic (0.92)
 
-![Classification Report](images/classification_report.png)
-
 ## Insight Utama
 1. Model menunjukkan performa yang seimbang antara kedua kelas, dengan sedikit bias positif terhadap kelas anemic
 2. False negatives (36) lebih sedikit daripada false positives (46), yang ideal dalam konteks medis
