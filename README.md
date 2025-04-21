@@ -32,7 +32,3 @@ Dataset terdiri dari 4277 gambar (2563 anemic dan 1714 non-anemic) dalam format 
 1. Model menunjukkan performa yang seimbang antara kedua kelas, dengan sedikit bias positif terhadap kelas anemic
 2. False negatives (36) lebih sedikit daripada false positives (46), yang ideal dalam konteks medis
 3. Pendekatan ekstraksi fitur sederhana terbukti efektif, menunjukkan perbedaan visual yang jelas antara kelas
-
-## Cara Penggunaan
-
-### Instalasi
